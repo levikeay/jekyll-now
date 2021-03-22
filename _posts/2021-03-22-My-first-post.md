@@ -4,4 +4,4 @@ layout: post
 ---
 This is my first post. **Boldly, I say _'hello'_**
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/IMG_6227 (2).jpg)
